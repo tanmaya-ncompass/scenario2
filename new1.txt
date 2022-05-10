@@ -1,6 +1,6 @@
-it's the first line.
+https://github.com/tanmaya-ncompass/scenario2.gitit's the first line.
 it's the second line.
 It's the updated Third line.
 it's the fourth line.
 it's the fifth line.
-it's the sixth line in master.
+it's the sixth line in branch1.
