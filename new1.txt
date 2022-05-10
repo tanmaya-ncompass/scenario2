@@ -3,4 +3,4 @@ it's the second line.
 It's the updated Third line.
 it's the fourth line.
 it's the fifth line.
-it's the sixth line.
+it's the sixth line in branch1.
